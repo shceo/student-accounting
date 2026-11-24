@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1000" viewBox="0 0 900 1000" font-family="Arial, Helvetica, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="255.0" y="20.0" width="150" height="40" rx="20.0" fill="#dbeafe" stroke="#1f2937" stroke-width="1.5"/>
+<text x="330" y="44.9" font-size="14" text-anchor="middle" fill="#111827" font-weight="bold">Начало</text>
+<polyline points="330.0,60.0 330.0,80.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="330.0,85.0 334.5,74.0 325.5,74.0" fill="#1f2937"/>
+<rect x="165.0" y="85.0" width="330" height="60" rx="0" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="330" y="110.9" font-size="14" text-anchor="middle" fill="#111827">Подключение к базе данных students.db,</text>
+<text x="330" y="128.9" font-size="14" text-anchor="middle" fill="#111827">создание таблиц (если их ещё нет)</text>
+<polyline points="330.0,145.0 330.0,185.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="330.0,190.0 334.5,179.0 325.5,179.0" fill="#1f2937"/>
+<polygon points="220.0,190.0 460.0,190.0 440.0,240.0 200.0,240.0" fill="#dcfce7" stroke="#1f2937" stroke-width="1.5"/>
+<text x="330" y="219.9" font-size="14" text-anchor="middle" fill="#111827">Вывод меню (пункты 0–7)</text>
+<polyline points="330.0,240.0 330.0,265.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="330.0,270.0 334.5,259.0 325.5,259.0" fill="#1f2937"/>
+<polygon points="220.0,270.0 460.0,270.0 440.0,320.0 200.0,320.0" fill="#dcfce7" stroke="#1f2937" stroke-width="1.5"/>
+<text x="330" y="299.9" font-size="14" text-anchor="middle" fill="#111827">Ввод номера пункта</text>
+<polyline points="330.0,320.0 330.0,335.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="330.0,340.0 334.5,329.0 325.5,329.0" fill="#1f2937"/>
+<polygon points="330,340 440,385 330,430 220,385" fill="#fef3c7" stroke="#1f2937" stroke-width="1.5"/>
+<text x="330" y="389.9" font-size="14" text-anchor="middle" fill="#111827">Пункт = 0?</text>
+<polyline points="440.0,385.0 575.0,385.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="580.0,385.0 569.0,380.5 569.0,389.5" fill="#1f2937"/>
+<text x="462" y="378.6" font-size="13" text-anchor="middle" fill="#374151" font-weight="bold">Да</text>
+<rect x="580.0" y="360.0" width="220" height="50" rx="0" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="690" y="389.9" font-size="14" text-anchor="middle" fill="#111827">Закрытие базы данных</text>
+<polyline points="690.0,410.0 690.0,430.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="690.0,435.0 694.5,424.0 685.5,424.0" fill="#1f2937"/>
+<rect x="615.0" y="435.0" width="150" height="40" rx="20.0" fill="#dbeafe" stroke="#1f2937" stroke-width="1.5"/>
+<text x="690" y="459.9" font-size="14" text-anchor="middle" fill="#111827" font-weight="bold">Конец</text>
+<polyline points="330.0,430.0 330.0,470.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="330.0,475.0 334.5,464.0 325.5,464.0" fill="#1f2937"/>
+<text x="352" y="454.6" font-size="13" text-anchor="middle" fill="#374151" font-weight="bold">Нет</text>
+<polygon points="330,475 455,520 330,565 205,520" fill="#fef3c7" stroke="#1f2937" stroke-width="1.5"/>
+<text x="330" y="524.9" font-size="14" text-anchor="middle" fill="#111827">Пункт от 1 до 7?</text>
+<polyline points="455.0,520.0 575.0,520.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="580.0,520.0 569.0,515.5 569.0,524.5" fill="#1f2937"/>
+<text x="478" y="513.5" font-size="13" text-anchor="middle" fill="#374151" font-weight="bold">Нет</text>
+<polygon points="590.0,495.0 810.0,495.0 790.0,545.0 570.0,545.0" fill="#dcfce7" stroke="#1f2937" stroke-width="1.5"/>
+<text x="690" y="515.9" font-size="14" text-anchor="middle" fill="#111827">Вывод: «Нет такого</text>
+<text x="690" y="533.9" font-size="14" text-anchor="middle" fill="#111827">пункта меню»</text>
+<polyline points="330.0,565.0 330.0,613.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="330.0,618.0 334.5,607.0 325.5,607.0" fill="#1f2937"/>
+<text x="350" y="592.5" font-size="13" text-anchor="middle" fill="#374151" font-weight="bold">Да</text>
+<rect x="180.0" y="618.0" width="300" height="64" rx="0" fill="#ede9fe" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="194.0" y1="618.0" x2="194.0" y2="682.0" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="466.0" y1="618.0" x2="466.0" y2="682.0" stroke="#1f2937" stroke-width="1.5"/>
+<text x="330" y="645.9" font-size="14" text-anchor="middle" fill="#111827">Выполнение выбранного</text>
+<text x="330" y="663.9" font-size="14" text-anchor="middle" fill="#111827">действия (подпрограмма)</text>
+<polyline points="480.0,650.0 520.0,650.0" fill="none" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="5,4"/>
+<polyline points="532,584 520,584 520,716 532,716" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<text x="534" y="598.5" font-size="13" text-anchor="start" fill="#111827">Действия:</text>
+<text x="534" y="614.5" font-size="13" text-anchor="start" fill="#111827">1 — добавить студента</text>
+<text x="534" y="630.5" font-size="13" text-anchor="start" fill="#111827">2 — показать всех студентов</text>
+<text x="534" y="646.5" font-size="13" text-anchor="start" fill="#111827">3 — найти студента</text>
+<text x="534" y="662.5" font-size="13" text-anchor="start" fill="#111827">4 — редактировать студента</text>
+<text x="534" y="678.5" font-size="13" text-anchor="start" fill="#111827">5 — удалить студента</text>
+<text x="534" y="694.5" font-size="13" text-anchor="start" fill="#111827">6 — выставить оценку</text>
+<text x="534" y="710.5" font-size="13" text-anchor="start" fill="#111827">7 — показать оценки студента</text>
+<polyline points="330.0,682.0 330.0,732.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="330.0,737.0 334.5,726.0 325.5,726.0" fill="#1f2937"/>
+<polygon points="330,737 465,785 330,833 195,785" fill="#fef3c7" stroke="#1f2937" stroke-width="1.5"/>
+<text x="330" y="780.9" font-size="14" text-anchor="middle" fill="#111827">Данные введены</text>
+<text x="330" y="798.9" font-size="14" text-anchor="middle" fill="#111827">без ошибок?</text>
+<polyline points="465.0,785.0 540.0,785.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="545.0,785.0 534.0,780.5 534.0,789.5" fill="#1f2937"/>
+<text x="488" y="778.5" font-size="13" text-anchor="middle" fill="#374151" font-weight="bold">Нет</text>
+<polygon points="555.0,760.0 785.0,760.0 765.0,810.0 535.0,810.0" fill="#dcfce7" stroke="#1f2937" stroke-width="1.5"/>
+<text x="660" y="780.9" font-size="14" text-anchor="middle" fill="#111827">Вывод сообщения</text>
+<text x="660" y="798.9" font-size="14" text-anchor="middle" fill="#111827">об ошибке</text>
+<polyline points="330.0,833.0 330.0,865.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="330.0,870.0 334.5,859.0 325.5,859.0" fill="#1f2937"/>
+<text x="350" y="854.5" font-size="13" text-anchor="middle" fill="#374151" font-weight="bold">Да</text>
+<polygon points="220.0,870.0 460.0,870.0 440.0,920.0 200.0,920.0" fill="#dcfce7" stroke="#1f2937" stroke-width="1.5"/>
+<text x="330" y="899.9" font-size="14" text-anchor="middle" fill="#111827">Вывод результата</text>
+<polyline points="800.0,520.0 850.0,520.0 850.0,960.0 669.0,960.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="664.0,960.0 675.0,964.5 675.0,955.5" fill="#1f2937"/>
+<polyline points="660.0,810.0 660.0,960.0 339.0,960.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="334.0,960.0 345.0,964.5 345.0,955.5" fill="#1f2937"/>
+<polyline points="330.0,920.0 330.0,960.0 60.0,960.0 60.0,168.0 325.0,168.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="330.0,168.0 319.0,163.5 319.0,172.5" fill="#1f2937"/>
+<text x="72" y="564.2" font-size="12" text-anchor="start" fill="#4b5563">возврат к меню</text>
+</svg>

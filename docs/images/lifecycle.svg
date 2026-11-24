@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="930" height="545" viewBox="0 0 930 545" font-family="Arial, Helvetica, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="30" y="30" width="225" height="64" rx="6" fill="#dbeafe" stroke="#1f2937" stroke-width="1.5"/>
+<text x="142.5" y="58.2" font-size="15" text-anchor="middle" fill="#111827" font-weight="bold">1. Анализ требований</text>
+<text x="142.5" y="79.2" font-size="12" text-anchor="middle" fill="#111827">результат: техническое задание</text>
+<rect x="158" y="114" width="225" height="64" rx="6" fill="#e0e7ff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="270.5" y="142.2" font-size="15" text-anchor="middle" fill="#111827" font-weight="bold">2. Проектирование</text>
+<text x="270.5" y="163.2" font-size="12" text-anchor="middle" fill="#111827">результат: архитектура, блок-схемы</text>
+<rect x="286" y="198" width="225" height="64" rx="6" fill="#dcfce7" stroke="#1f2937" stroke-width="1.5"/>
+<text x="398.5" y="226.2" font-size="15" text-anchor="middle" fill="#111827" font-weight="bold">3. Реализация</text>
+<text x="398.5" y="247.2" font-size="12" text-anchor="middle" fill="#111827">результат: код на Python</text>
+<rect x="414" y="282" width="225" height="64" rx="6" fill="#fef3c7" stroke="#1f2937" stroke-width="1.5"/>
+<text x="526.5" y="310.2" font-size="15" text-anchor="middle" fill="#111827" font-weight="bold">4. Тестирование</text>
+<text x="526.5" y="331.2" font-size="12" text-anchor="middle" fill="#111827">результат: 14 тестов пройдено</text>
+<rect x="542" y="366" width="225" height="64" rx="6" fill="#ffedd5" stroke="#1f2937" stroke-width="1.5"/>
+<text x="654.5" y="394.2" font-size="15" text-anchor="middle" fill="#111827" font-weight="bold">5. Внедрение</text>
+<text x="654.5" y="415.2" font-size="12" text-anchor="middle" fill="#111827">результат: инструкция по запуску</text>
+<rect x="670" y="450" width="225" height="64" rx="6" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+<text x="782.5" y="478.2" font-size="15" text-anchor="middle" fill="#111827" font-weight="bold">6. Сопровождение</text>
+<text x="782.5" y="499.2" font-size="12" text-anchor="middle" fill="#111827">исправления и доработки</text>
+<polyline points="255.0,62.0 270.5,62.0 270.5,109.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="270.5,114.0 275.0,103.0 266.0,103.0" fill="#1f2937"/>
+<polyline points="383.0,146.0 398.5,146.0 398.5,193.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="398.5,198.0 403.0,187.0 394.0,187.0" fill="#1f2937"/>
+<polyline points="511.0,230.0 526.5,230.0 526.5,277.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="526.5,282.0 531.0,271.0 522.0,271.0" fill="#1f2937"/>
+<polyline points="639.0,314.0 654.5,314.0 654.5,361.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="654.5,366.0 659.0,355.0 650.0,355.0" fill="#1f2937"/>
+<polyline points="767.0,398.0 782.5,398.0 782.5,445.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="782.5,450.0 787.0,439.0 778.0,439.0" fill="#1f2937"/>
+<polyline points="414.0,314.0 346.0,314.0 346.0,267.0" fill="none" stroke="#b45309" stroke-width="1.5" stroke-dasharray="6,4"/>
+<polygon points="346.0,262.0 341.5,273.0 350.5,273.0" fill="#b45309"/>
+<text x="336" y="310.7" font-size="12" text-anchor="end" fill="#b45309">найдена ошибка —</text>
+<text x="336" y="325.7" font-size="12" text-anchor="end" fill="#b45309">возврат к коду</text>
+<polyline points="670.0,482.0 60.0,482.0 60.0,99.0" fill="none" stroke="#1d4ed8" stroke-width="1.5" stroke-dasharray="6,4"/>
+<polygon points="60.0,94.0 55.5,105.0 64.5,105.0" fill="#1d4ed8"/>
+<text x="75" y="474.2" font-size="12" text-anchor="start" fill="#1d4ed8">новые требования — новый виток разработки</text>
+</svg>

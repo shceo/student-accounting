@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="910" height="760" viewBox="0 0 910 760" font-family="Arial, Helvetica, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="230" y="18" width="440" height="50" rx="25" fill="#f3f4f6" stroke="#1f2937" stroke-width="1.5"/>
+<text x="450" y="39.2" font-size="15" text-anchor="middle" fill="#111827" font-weight="bold">Пользователь</text>
+<text x="450" y="58.2" font-size="12" text-anchor="middle" fill="#111827">работник деканата, преподаватель</text>
+<polyline points="400.0,68.0 400.0,125.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="400.0,130.0 404.5,119.0 395.5,119.0" fill="#1f2937"/>
+<polyline points="500.0,130.0 500.0,73.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="500.0,68.0 495.5,79.0 504.5,79.0" fill="#1f2937"/>
+<text x="390" y="95.7" font-size="12" text-anchor="end" fill="#374151">ввод</text>
+<text x="390" y="110.7" font-size="12" text-anchor="end" fill="#374151">с клавиатуры</text>
+<text x="510" y="95.7" font-size="12" text-anchor="start" fill="#374151">текст</text>
+<text x="510" y="110.7" font-size="12" text-anchor="start" fill="#374151">на экране</text>
+<rect x="230" y="130" width="440" height="90" rx="8" fill="#dbeafe" stroke="#1f2937" stroke-width="1.5"/>
+<text x="450" y="159.6" font-size="16" text-anchor="middle" fill="#111827" font-weight="bold">Слой интерфейса</text>
+<text x="450" y="182.6" font-size="13" text-anchor="middle" fill="#1e3a8a">файл ui.py</text>
+<text x="450" y="204.6" font-size="13" text-anchor="middle" fill="#111827">меню, ввод данных, вывод таблиц и сообщений</text>
+<polyline points="400.0,220.0 400.0,295.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="400.0,300.0 404.5,289.0 395.5,289.0" fill="#1f2937"/>
+<polyline points="500.0,300.0 500.0,225.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="500.0,220.0 495.5,231.0 504.5,231.0" fill="#1f2937"/>
+<text x="390" y="256.7" font-size="12" text-anchor="end" fill="#374151">вызов методов:</text>
+<text x="390" y="271.7" font-size="12" text-anchor="end" fill="#374151">add_student(), add_grade() …</text>
+<text x="510" y="256.7" font-size="12" text-anchor="start" fill="#374151">результат или</text>
+<text x="510" y="271.7" font-size="12" text-anchor="start" fill="#374151">ошибка ValueError</text>
+<rect x="230" y="300" width="440" height="90" rx="8" fill="#dcfce7" stroke="#1f2937" stroke-width="1.5"/>
+<text x="450" y="329.6" font-size="16" text-anchor="middle" fill="#111827" font-weight="bold">Слой логики</text>
+<text x="450" y="352.6" font-size="13" text-anchor="middle" fill="#1e3a8a">файл services.py, класс StudentService</text>
+<text x="450" y="374.6" font-size="13" text-anchor="middle" fill="#111827">проверка данных, правила, средний балл</text>
+<polyline points="400.0,390.0 400.0,465.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="400.0,470.0 404.5,459.0 395.5,459.0" fill="#1f2937"/>
+<polyline points="500.0,470.0 500.0,395.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="500.0,390.0 495.5,401.0 504.5,401.0" fill="#1f2937"/>
+<text x="390" y="426.7" font-size="12" text-anchor="end" fill="#374151">вызов методов:</text>
+<text x="390" y="441.7" font-size="12" text-anchor="end" fill="#374151">insert_student(), get_grades() …</text>
+<text x="510" y="426.7" font-size="12" text-anchor="start" fill="#374151">строки таблиц</text>
+<text x="510" y="441.7" font-size="12" text-anchor="start" fill="#374151">(данные)</text>
+<rect x="230" y="470" width="440" height="90" rx="8" fill="#fef3c7" stroke="#1f2937" stroke-width="1.5"/>
+<text x="450" y="499.6" font-size="16" text-anchor="middle" fill="#111827" font-weight="bold">Слой данных</text>
+<text x="450" y="522.5" font-size="13" text-anchor="middle" fill="#1e3a8a">файл database.py, класс Database</text>
+<text x="450" y="544.5" font-size="13" text-anchor="middle" fill="#111827">подключение к базе, SQL-запросы, создание таблиц</text>
+<polyline points="400.0,560.0 400.0,635.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="400.0,640.0 404.5,629.0 395.5,629.0" fill="#1f2937"/>
+<polyline points="500.0,640.0 500.0,565.0" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+<polygon points="500.0,560.0 495.5,571.0 504.5,571.0" fill="#1f2937"/>
+<text x="390" y="596.7" font-size="12" text-anchor="end" fill="#374151">SQL-запросы: INSERT,</text>
+<text x="390" y="611.7" font-size="12" text-anchor="end" fill="#374151">SELECT, UPDATE, DELETE</text>
+<text x="510" y="596.7" font-size="12" text-anchor="start" fill="#374151">найденные</text>
+<text x="510" y="611.7" font-size="12" text-anchor="start" fill="#374151">записи</text>
+<path d="M290.0,654 v72 a160.0,14 0 0 0 320,0 v-72" fill="#fde68a" stroke="#1f2937" stroke-width="1.5"/>
+<ellipse cx="450" cy="654" rx="160.0" ry="14" fill="#fde68a" stroke="#1f2937" stroke-width="1.5"/>
+<text x="450" y="695.2" font-size="15" text-anchor="middle" fill="#111827" font-weight="bold">Файл students.db (СУБД SQLite)</text>
+<text x="450" y="716.5" font-size="13" text-anchor="middle" fill="#111827">таблицы students и grades</text>
+<rect x="25" y="300" width="170" height="90" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="110" y="327.2" font-size="15" text-anchor="middle" fill="#111827" font-weight="bold">main.py</text>
+<text x="110" y="343.2" font-size="12" text-anchor="middle" fill="#111827">точка входа: создаёт</text>
+<text x="110" y="358.2" font-size="12" text-anchor="middle" fill="#111827">три слоя и запускает</text>
+<text x="110" y="373.2" font-size="12" text-anchor="middle" fill="#111827">меню</text>
+<polyline points="110.0,300.0 110.0,175.0 225.0,175.0" fill="none" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6,4"/>
+<polygon points="230.0,175.0 219.0,170.5 219.0,179.5" fill="#1f2937"/>
+<polyline points="195.0,345.0 225.0,345.0" fill="none" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6,4"/>
+<polygon points="230.0,345.0 219.0,340.5 219.0,349.5" fill="#1f2937"/>
+<polyline points="110.0,390.0 110.0,515.0 225.0,515.0" fill="none" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6,4"/>
+<polygon points="230.0,515.0 219.0,510.5 219.0,519.5" fill="#1f2937"/>
+<text x="118" y="244.2" font-size="12" text-anchor="start" fill="#4b5563">создаёт</text>
+<text x="118" y="456.2" font-size="12" text-anchor="start" fill="#4b5563">создаёт</text>
+<rect x="715" y="290" width="175" height="110" rx="8" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6,4"/>
+<text x="802" y="316.9" font-size="14" text-anchor="middle" fill="#111827" font-weight="bold">test_app.py</text>
+<text x="802" y="335.2" font-size="12" text-anchor="middle" fill="#111827">14 автотестов</text>
+<text x="802" y="364.9" font-size="14" text-anchor="middle" fill="#111827" font-weight="bold">demo_data.py</text>
+<text x="802" y="383.2" font-size="12" text-anchor="middle" fill="#111827">учебные данные</text>
+<polyline points="715.0,345.0 675.0,345.0" fill="none" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6,4"/>
+<polygon points="670.0,345.0 681.0,349.5 681.0,340.5" fill="#1f2937"/>
+</svg>

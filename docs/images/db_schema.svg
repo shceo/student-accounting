@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="300" viewBox="0 0 780 300" font-family="Arial, Helvetica, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="30" y="30" width="290" height="36" rx="0" fill="#dbeafe" stroke="#1f2937" stroke-width="1.5"/>
+<text x="175.0" y="53.2" font-size="15" text-anchor="middle" fill="#111827" font-weight="bold">students (студенты)</text>
+<rect x="30" y="66" width="290" height="32" rx="0" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="42" y="86.5" font-size="13" text-anchor="start" fill="#111827">id — номер студента (первичный ключ)</text>
+<rect x="30" y="98" width="290" height="32" rx="0" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="42" y="118.5" font-size="13" text-anchor="start" fill="#111827">full_name — ФИО</text>
+<rect x="30" y="130" width="290" height="32" rx="0" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="42" y="150.6" font-size="13" text-anchor="start" fill="#111827">group_name — группа</text>
+<rect x="30" y="162" width="290" height="32" rx="0" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="42" y="182.6" font-size="13" text-anchor="start" fill="#111827">record_book — № зачётки (уникальный)</text>
+<rect x="460" y="30" width="290" height="36" rx="0" fill="#dcfce7" stroke="#1f2937" stroke-width="1.5"/>
+<text x="605.0" y="53.2" font-size="15" text-anchor="middle" fill="#111827" font-weight="bold">grades (оценки)</text>
+<rect x="460" y="66" width="290" height="32" rx="0" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="472" y="86.5" font-size="13" text-anchor="start" fill="#111827">id — номер оценки (первичный ключ)</text>
+<rect x="460" y="98" width="290" height="32" rx="0" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="472" y="118.5" font-size="13" text-anchor="start" fill="#111827">student_id — чья оценка (внешний ключ)</text>
+<rect x="460" y="130" width="290" height="32" rx="0" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="472" y="150.6" font-size="13" text-anchor="start" fill="#111827">subject — предмет</text>
+<rect x="460" y="162" width="290" height="32" rx="0" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="472" y="182.6" font-size="13" text-anchor="start" fill="#111827">grade — оценка от 2 до 5</text>
+<rect x="460" y="194" width="290" height="32" rx="0" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<text x="472" y="214.6" font-size="13" text-anchor="start" fill="#111827">grade_date — дата выставления</text>
+<polyline points="320.0,82.0 390.0,82.0 390.0,114.0 460.0,114.0" fill="none" stroke="#1f2937" stroke-width="2"/>
+<text x="334" y="77.2" font-size="15" text-anchor="middle" fill="#111827" font-weight="bold">1</text>
+<text x="444" y="110.3" font-size="18" text-anchor="middle" fill="#111827" font-weight="bold">∞</text>
+<text x="390" y="266.6" font-size="13" text-anchor="middle" fill="#374151">Связь «один ко многим»: у одного студента может быть много оценок</text>
+</svg>
